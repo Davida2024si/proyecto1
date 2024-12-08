@@ -1,2 +1,5 @@
 El primer ejemplo
 El segundo ejemplo ahora
+Estoy agregando un nuevo renglon en 
+archivo1.txt, el cual no habia tocado o modificado
+por que estaba trabajando en el archivo2 
