@@ -1,0 +1,3 @@
+El contenido del archivo 2 es muy interesante
+Me gustaria que cicieras modificaciones tambien en 
+el archivo uno y los guardaras en GitHub
