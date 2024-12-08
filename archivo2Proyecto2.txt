@@ -1,3 +1,5 @@
 El contenido del archivo 2 es muy interesante
-Me gustaria que cicieras modificaciones tambien en 
-el archivo uno y los guardaras en GitHub
+Me gustaria que hicieras modificaciones tambien en 
+el archivo uno y los guardaras en GitHub.
+Hice otra modificación a la palabra hicieras la cual
+estaba mal, muy mal escrita.
