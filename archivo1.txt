@@ -3,3 +3,6 @@ El segundo ejemplo ahora
 Estoy agregando un nuevo renglon en 
 archivo1.txt, el cual no habia tocado o modificado
 por que estaba trabajando en el archivo2 
+
+Lo modifico hoy 10/12/2024 11:40pm antes de 
+acostarme en archivo1.txt
